@@ -36,7 +36,7 @@ plugins:
   - blog
   
 nav:
-  - Casa: index.md
+  - MI PRESENTO IN BREVE: index.md
   - 3D:
     - BLENDER: 3D/BLENDER.md
   - CODE:
