@@ -4,11 +4,6 @@ Benvenuti nel mio portfolio personale! Qui troverete una panoramica dei miei pro
 
 ---
 
-## Chi Sono
-Ciao! Sono Raffaele, un operatore drone, videomaker ed appassionato di fotografia
-
----
-
 ## Lavori
 ### Lavoro 1: **Torneo 80126**
 Descrizione: Un piano sequenza effettuato per l'inizio di un torneo di calcio situato nel mio quartiere Natale, Pianura
