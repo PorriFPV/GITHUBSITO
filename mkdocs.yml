@@ -2,7 +2,7 @@ site_name: PorriFPV
 site_url: https://mydomain.org/mysite
 theme:
   language: it
-  logo: assets/logodrone.png
+  logo: assets/logo.png
   name: material
   palette: 
 
