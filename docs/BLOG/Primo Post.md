@@ -4,4 +4,4 @@
 
 ## 10-12-2024
 
-Oggi ho splittato la mia repository su due computer diversi in modo tale da poter lavorare ed aggiornare ovunque il mio fantastico sito *PorriFPV*
+Oggi ho splittato la mia repository su due computer diversi in modo tale da poter lavorare ed aggiornare ovunque il mio fantastico sito *PorriFPV* .
